@@ -1,0 +1,141 @@
+header{
+
+}
+h1{
+
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 20px;
+}
+.container{
+	text-align: center;
+
+}
+.banner{
+	    background: url(../images/1bn.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    padding: 200px 0px;
+	min-height: 95vh;
+}
+.box1{
+    background: #ffffff91;
+    margin: auto;
+    padding: 50px 10px;
+}
+
+h3{
+	font-size: 2.2em;
+    font-weight: 700;
+   
+}
+p{
+	margin: 10px 0;
+	color: black;
+	font-size: 18px
+}
+.banner-content p{
+	    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 18px;
+    color: #000000a8;
+    font-weight: 500;
+}
+.btn{
+	    color: white;
+    background: black;
+    font-size: 20px;
+
+}
+.btn:hover {
+    color: #212529;
+    background: white;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+ }
+.banner-section .paragraph{
+    padding-top: 20px;
+
+
+}
+.banner-section img{
+    padding-top: 20px;
+}
+.col-xxl-10 {
+    margin: auto;
+ }
+.paragraph{
+	padding: 50px;
+
+}
+.paragraph p{
+	font-size: 20px;
+    padding: 0 50px;
+    padding-top: 18px;
+    padding-bottom: 12px;
+
+	
+}
+.paragraph .last{
+	padding-top: 0px;
+
+}
+
+.feature-section{
+	padding: 0 80px; 
+	padding-bottom: 50px;
+
+}
+.features{
+
+}
+h4{
+	 font-size: 22px;
+    letter-spacing: 2px;
+    padding-top: 15px;
+    margin: 0;    
+
+   color: #000000c2;
+
+}
+span{
+	display: inline-block;
+    width: 100px;
+    height: 1.3px;
+    background: red;
+
+}
+.features p{
+
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.one{
+	height: 1px;
+    width: 100%;
+    background: #00000069;
+    display: inline-block;
+    margin: auto;
+}
+.footer-section{
+        padding-bottom: 80px;
+}
+.box2 h3{
+
+}
+.box2 p{
+
+}
+.copyright{
+
+}
+.box2 .one{
+
+}
